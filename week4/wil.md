@@ -10,7 +10,7 @@ git flow보다 훨씬더 간단하고 직관적이며 빠르다는 장접이 있
 그러나 대규모 프로젝트에 제한적이고 배포에 위험성이 따른다는 단점도 존재한다.
 [github flow](https://velog.io/@gmlstjq123/Git-Flow-VS-Github-Flow).
 
-#commit convention
+# commit convention
 규격화된 커밋 메세지로 질서를 추구함으로써 조금 더 수월한 협업이 될 수 있게 한다.
 ```
 1. 제목(Type: subject): 제목으로 최대한 간단히 적어야 하며, 
@@ -53,3 +53,5 @@ Related to: #48, #45
 - Resolves: 이슈를 해결했을 때 사용
 - Ref: 참고할 이슈가 있을 때 사용
 - Related to: 해당 커밋에 관련된 이슈번호 (아직 해결되지 않은 경우)
+
+[commit convention](https://velog.io/@archivvonjang/Git-Commit-Message-Convention).
